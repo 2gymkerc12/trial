@@ -1,4 +1,2 @@
-# trial
-name
-am
-project name
+better description
+hello!
